@@ -14,10 +14,6 @@ Desafios enfrentados:
   
 - Trabalhar com operações de adição e exclusão de registros.
 
-## Algoritmos
-- `ordenacao.py`: Implementação do algoritmo de ordenação.
-- `busca_binaria.py`: Algoritmo de busca binária.
-
 ## Exercícios
 - `exercicio-1.py`: Exercício sobre loops.
 - `exercicio-2.py`: Exercício sobre manipulação de listas.
